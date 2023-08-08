@@ -1,0 +1,3 @@
+module.exports = function power(base, exponent) {
+  return base ** exponent;
+};
